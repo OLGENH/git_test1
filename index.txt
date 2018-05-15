@@ -1,3 +1,4 @@
 create index.txt
 commit test1
 commit origin 1
+commit origin 2
