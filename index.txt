@@ -3,3 +3,4 @@ commit test1
 test1 my_hack
 test2 my_hack
 test1 my_hack_2
+test2 my_hack_2
