@@ -3,3 +3,4 @@ commit 1 on my_hack
 commit 2 on my_hack
 commit 1 on my_hack_2
 commit 2 on my_hack_2
+origin 1
